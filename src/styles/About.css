@@ -1,0 +1,12 @@
+.aboutMe {
+    margin: 50px;
+    color: #000034;
+}
+
+.avatar {
+    border-radius: 180cm;
+    height: 200px;
+    width: 200px;
+    margin-top: 40px;
+    border: 7px solid #000034;
+}

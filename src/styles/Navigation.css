@@ -1,0 +1,10 @@
+.navbar {
+    align-items: flex-end;
+}
+
+.navItem {
+    list-style-type: none;
+    color: white;
+    margin: 20px;
+    
+}
