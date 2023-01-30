@@ -1,15 +1,17 @@
 {
   "files": {
-    "main.css": "/react-portfolio-challenge/static/css/main.073c9b0a.css",
-    "main.js": "/react-portfolio-challenge/static/js/main.c6cd8e31.js",
+    "main.css": "/react-portfolio-challenge/static/css/main.349f687b.css",
+    "main.js": "/react-portfolio-challenge/static/js/main.9918171c.js",
     "static/js/787.ded898a4.chunk.js": "/react-portfolio-challenge/static/js/787.ded898a4.chunk.js",
+    "static/media/blue-background.jpeg": "/react-portfolio-challenge/static/media/blue-background.1afc303ae76ba03efc55.jpeg",
+    "static/media/avatar.jpeg": "/react-portfolio-challenge/static/media/avatar.5b44eed0b6cf7e842117.jpeg",
     "index.html": "/react-portfolio-challenge/index.html",
-    "main.073c9b0a.css.map": "/react-portfolio-challenge/static/css/main.073c9b0a.css.map",
-    "main.c6cd8e31.js.map": "/react-portfolio-challenge/static/js/main.c6cd8e31.js.map",
+    "main.349f687b.css.map": "/react-portfolio-challenge/static/css/main.349f687b.css.map",
+    "main.9918171c.js.map": "/react-portfolio-challenge/static/js/main.9918171c.js.map",
     "787.ded898a4.chunk.js.map": "/react-portfolio-challenge/static/js/787.ded898a4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.c6cd8e31.js"
+    "static/css/main.349f687b.css",
+    "static/js/main.9918171c.js"
   ]
 }
