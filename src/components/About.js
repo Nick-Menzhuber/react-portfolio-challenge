@@ -12,8 +12,8 @@ export default function About() {
         with the wealth of experience I have accumulated by working in
         operational settings to improve the efficiency of various workflows.
         Having spent years in the trenches, I am familiar with the usual
-        pitfalls and communication breakdowns between technology units and
-        business units. It is my intention to "be a bridge" between units by
+        pitfalls and communication breakdowns between technology and
+        business units. It is my intention to "be a bridge" between teams by
         speaking both languages.
         <br></br>
         <br></br>

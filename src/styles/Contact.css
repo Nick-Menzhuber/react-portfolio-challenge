@@ -1,0 +1,11 @@
+form {
+    text-align: left;
+    margin: 50px 300px;
+    width: 600px;
+    color:#000034;
+    justify-content: center;
+}
+
+.form-group {
+    margin: 20px;
+}
