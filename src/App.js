@@ -8,10 +8,15 @@ import Resume from './components/Resume';
 import './App.css';
 
 export default function App() {
+  console.log(document.getElementById('about'))
+
   return (
     <div className="App">
       <Header />
       <About />
+      <Project />
+      <Contact />
+      <Resume />
       <Footer />
     </div>
   );

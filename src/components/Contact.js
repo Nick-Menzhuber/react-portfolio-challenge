@@ -2,7 +2,7 @@ import "../styles/Contact.css";
 
 export default function Contact() {
   return (
-    <div>
+    <div id="contact">
       <form>
         <div class="form-group">
           <label for="exampleFormControlInput1">Name</label>

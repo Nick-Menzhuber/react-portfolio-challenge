@@ -3,7 +3,7 @@ import avatar from "../images/avatar.jpeg"
 
 export default function About() {
   return (
-    <div>
+    <div id="about">
       <img className="avatar" src={avatar} alt="avatar"></img>
       <p className="aboutMe">
         I have 18 years of experience in financial operations and am currently
