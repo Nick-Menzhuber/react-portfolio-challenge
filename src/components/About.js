@@ -17,7 +17,7 @@ export default function About() {
         speaking both languages.
         <br></br>
         <br></br>
-        <i class="fa-thin fa-starfighter"></i>
+        <i className="fa-thin fa-starfighter"></i>
         <br></br>
         <br></br>I graduated with my Bachelor of Arts degree from the University
         of Minnesota, Morris in 2003, where I studied English and theatre. I
